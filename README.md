@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-1. Hi there! I'm a student of Sendai, Japan.
+1. Hi there! I'm a student engineer of Sendai, Japan.
 
 2. My favorite is PyTorch.
 
