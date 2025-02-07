@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 3. You can find my LinkedIn profile [here](https://www.linkedin.com/in/taniuchi/).
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=HirotoTaniuchi&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
