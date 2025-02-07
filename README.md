@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# About Me
+
+1. I'm a student of Sendai, Japan.
+
+2. My favorite is PyTorch.
+
+3. You can find my LinkedIn profile [here](https://www.linkedin.com/in/taniuchi/).
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=HirotoTaniuchi&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript," /> <br /><br />
+
+<!--
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+-->
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws," /> <br /><br />
