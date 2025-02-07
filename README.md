@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-1. Hi there! I'm a student engineer of Tohoku University, Sendai, Japan.
+1. Hi there! I'm a student engineer of [Tohoku University](https://www.tohoku.ac.jp/en/), Sendai, Japan.
 
 2. My favorite is PyTorch.
 
