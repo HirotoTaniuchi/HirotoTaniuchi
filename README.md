@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=python,typescript," /> <br /><br />
 
-<!--
+
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
--->
+<img src="https://skillicons.dev/icons?i=wordpress" /> <br /><br />
+
 
 ## DB and Dev Tools etc
 
