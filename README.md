@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-/*全体のテーマカラーの変更*/
+<!--/*全体のテーマカラーの変更*/
 
 /* メインカラー 500 */
 #blog-title, .entry-content h2, .entry-content ol li:before, .page-index .pager a:hover, .page-entry .pager .pager-prev::before, .page-entry .pager .pager-next::after, .hatena-module-title, .archive-heading
@@ -52,6 +52,7 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
     font-size:9px;
     padding: 2.3px 4px 0px 4px;;
 }
+-->
 
 
 # About Me
