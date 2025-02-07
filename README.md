@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **HirotoTaniuchi/HirotoTaniuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-1. I'm a student of Sendai, Japan.
+1. Hi there! I'm a student of Sendai, Japan.
 
 2. My favorite is PyTorch.
 
