@@ -67,7 +67,8 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript," /> <br /><br />
+
 
 
 ## Frameworks and Library
