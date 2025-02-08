@@ -78,4 +78,4 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,docker" /> <br /><br />
