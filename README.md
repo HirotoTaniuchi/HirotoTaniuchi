@@ -73,7 +73,7 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,wordpress" /> <br /><br />
 
 
 ## DB and Dev Tools etc
