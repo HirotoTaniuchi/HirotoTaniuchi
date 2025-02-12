@@ -78,6 +78,6 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,wordpress" /> <br /><br />
 
 
-## DB and Dev Tool etc
+## Data Base and Dev Tool etc
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,docker" /> <br /><br />
