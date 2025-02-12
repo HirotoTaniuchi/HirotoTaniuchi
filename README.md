@@ -68,10 +68,7 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 ## Languages
 
 <!--img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript," /> <br /><br /-->
-<img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4">
-<img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br />
-<img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br />
-<img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br />
+<img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br /><img width="250" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br />
 
 
 
