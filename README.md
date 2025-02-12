@@ -70,7 +70,7 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 [python]:"http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"
 
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript," /> <br /><br />
-<img width="200" src="kawaiilogo/python.png">
+<img width="200" src="kawaiilogo/python.png"><img width="200" src="kawaiilogo/cpp.png"><img width="200" src="kawaiilogo/cs.png"><img width="200" src="kawaiilogo/typescript.png">
 
 
 
