@@ -68,6 +68,7 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 ## Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript," /> <br /><br />
+<img "https://drive.google.com/file/d/1AFcVeqJ5jOncBNRqEtYCqDaFe0eaJnw7/view?usp=drive_link">
 
 
 
