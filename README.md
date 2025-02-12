@@ -67,8 +67,15 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 
 ## Languages
 
+[python]:"http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"
+
 <!--img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript," /> <br /><br /-->
-<img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br />
+<img width="200" src=[python]><img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"><img width="200" src="http://drive.google.com/uc?export=view&id=1chizdFyT8ahtWm6wNDTjBGgh47CEd7y4"> <br /><br />
+
+https://drive.google.com/file/d/1LlwCcGUO4haT9IxymGRdcX68mvjcDq5J/view?usp=drive_link
+https://drive.google.com/file/d/1fgW7sNroqp2kXFBdf9f3k5o6y-l61LtS/view?usp=drive_link
+https://drive.google.com/file/d/1dkotvTyIbzSfUMPDkIB5vHIQxLixBLfQ/view?usp=drive_link
+
 
 
 
