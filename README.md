@@ -65,7 +65,7 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 
 
 
-## Languages
+## Language
 <!--
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript," /> <br /><br />
 -->
@@ -73,11 +73,11 @@ ul.table-of-contents, .page-index .pager a, .page-entry .pager span
 
 
 
-## Frameworks and Library
+## Framework and Library
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,wordpress" /> <br /><br />
 
 
-## DB and Dev Tools etc
+## DB and Dev Tool etc
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,docker" /> <br /><br />
